@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab01</string>
+    <string name="display">텍스트 출력 부분</string>
+</resources>

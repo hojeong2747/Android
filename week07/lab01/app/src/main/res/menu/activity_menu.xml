@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item01"
+        android:title="일식">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/item01_1"
+                    android:title="초밥" />
+                <item
+                    android:id="@+id/item01_2"
+                    android:title="라멘" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item02"
+        android:title="양식">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/item02_1"
+                    android:title="파스타" />
+                <item
+                    android:id="@+id/item02_2"
+                    android:title="샌드위치" />
+            </group>
+        </menu>
+    </item>
+</menu>
